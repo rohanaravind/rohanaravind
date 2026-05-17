@@ -11,7 +11,7 @@ Background in industrial design. Currently focused on GNC, drone systems, and op
 ### [FlightPath AI](https://github.com/rohanaravind/FlightPathAI)
 Browser-based mission planning tool for commercial drone operators. Draw a polygon, get a lawnmower grid flight path, export a mission brief PDF. No account required. Built with Next.js 14, TypeScript, and Mapbox GL JS.
 
-→ [Live demo](https://flightpathai.vercel.app)
+→ [Live demo](https://flightpathai.netlify.app)
 
 ### [Turnout](https://github.com/rohanaravind/Turnout)
 Volunteer hours tracking platform. Built for organizations that still track service hours on paper sign-in sheets. Production app — Next.js 14, TypeScript, Supabase, Vercel.
@@ -42,10 +42,10 @@ Volunteer hours tracking platform. Built for organizations that still track serv
 
 I write about building, engineering, and aerospace on Medium.
 
-→ [The Nationals Journey: What I Learned Leading a Team That Didn't Want to Be Led](https://medium.com/@rohanaravind)
+→ [The Nationals Journey: What I Learned Leading a Team That Didn't Want to Be Led](https://medium.com/@rohanaravind10/the-nationals-journey-what-i-learned-leading-a-team-that-didnt-want-to-be-led-12ba1589efed)
 
 ---
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/rohanaravind) · [Medium](https://medium.com/@rohanaravind) · rohan@rohanaravind.com
+[LinkedIn](https://linkedin.com/in/rohanaravind) · [Medium](https://medium.com/@rohanaravind10) · rohanaravind10@gmail.com
